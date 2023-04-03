@@ -1,6 +1,6 @@
 ## About Me
 
-What's up? hey\|you
+What's poppin. My names Will. 
 
 I am an awesome student at Lehigh, you should hire me!
 
@@ -38,7 +38,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**Internship at [Matrix Development Group](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -46,15 +46,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I want to do the best I can and make sure to have fun along the ride. 
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Vidego games, lifting, listening to music, horseback riding. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
