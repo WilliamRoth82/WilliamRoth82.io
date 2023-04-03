@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # William Rothpletz
 ## Assignment 5 Midterm Report
 
