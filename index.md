@@ -4,7 +4,7 @@ Hi, my name is Will, and I am a Senior at Lehigh University and expect to gradua
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/WilliamRoth82/WilliamRoth82.github.io/raw/master/images/59686f2e-e430-4c15-805a-ab5baf5acd19.png?raw=true" width="50%">
+  <img class="img-circle" src="/images/59686f2e-e430-4c15-805a-ab5baf5acd19.png?raw=true" width="50%">
 </p>
 
 ---
