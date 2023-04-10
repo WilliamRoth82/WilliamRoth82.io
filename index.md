@@ -1,11 +1,6 @@
 ## About Me
 
 Hi, my name is Will, and I am a Senior at Lehigh University and expect to graduate this May. I am a Finance major and a Real Estate and Business Information Systems minor, and after graduation I will be working in Real Estate Development at Matrix Development Group in New Jersey. While at Lehigh, I spent several semesters learning how to code in Java, R, SQL, and Python, and below I would like to show off some of my work!
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="/images/59686f2e-e430-4c15-805a-ab5baf5acd19.png?raw=true" width="50%">
-</p>
 
 ---
 
@@ -20,9 +15,6 @@ This report is a cross-sectional event study that looks to answer the question o
 From my analysis, I found that there is little or no relationship between the overall document sentiment as well as my contextual sentiment variables and the 2 and 10 days returns around the firm's filing date. As seen in the report, there is a fairly even distribution among sentiment scores when plotted against 2 and 10 day returns. The primary thing that stood out to me from my contextual analysis was when countries in conflict were talked about with positive sentiment it had a significantly higher correlation to the returns around the filing date then when they were discussed with negative sentiment. 
 
 Please open and read my report linked above to read more about my findings and analysis process. 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 _**[Regression Practice](Regression_practice)**_
@@ -33,9 +25,9 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Team Project To Be Posted Here](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Project in development. Please stand by...
 
 ---
 
@@ -47,13 +39,15 @@ _**Internship at [Matrix Development Group](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-I want to do the best I can and make sure to have fun along the ride. 
+My main goal in life is to do the best I can in whatever I set my mind to and to make sure to have fun along the ride.
+
+I am still unsure about what I want to do for my career, but currently I want to work in real estate developmet and learn how to invest in, add value to, and then sell properties. My ultimate goal would be  to start my own firm and be able to work on my own investment projects later in life.
 
 ---
 
 ## Hobbies
 
-Vidego games, lifting, listening to music, horseback riding. 
+My main hobbies include horseback riding, lifting weights, playing video games, listening to music, and spendig time with friends and famimly!
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
