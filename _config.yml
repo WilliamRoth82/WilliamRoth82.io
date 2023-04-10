@@ -1,17 +1,12 @@
 title: Will Rothpletz # your name (or website title) here
-logo: "/images/unnamed.jpg?raw=true" # your photo (or logo) here
+logo: "/images/59686f2e-e430-4c15-805a-ab5baf5acd19.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
   <a href="https://www.linkedin.com/in/william-rothpletz">LinkedIn</a> 
   <br>
   <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
   <br>
-  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
+  <a href="https://github.com/WilliamRoth82/">GitHub</a>  
   <br>
-  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
   
 theme: jekyll-theme-minimal
