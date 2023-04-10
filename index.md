@@ -32,7 +32,7 @@ Project in development. Please stand by...
 
 _**Internship at [Matrix Development Group](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/images/tmp_217_6-13-2019_34028_.png"/>
 
 ---
 
