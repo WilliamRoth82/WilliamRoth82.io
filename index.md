@@ -37,5 +37,7 @@ I am still unsure about what I want to do for my career, but currently I want to
 My main hobbies include horseback riding, lifting weights, playing video games, listening to music, and spendig time with friends and famimly!
 
 ---
+
+## Thanks for stopping by!
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
