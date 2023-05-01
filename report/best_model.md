@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # Will's bestest predicting model ever!
 
 
