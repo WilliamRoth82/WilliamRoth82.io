@@ -16,12 +16,12 @@ From my analysis, I found that there is little or no relationship between the ov
  
 ---
 
-_**[Using Machine Learning Regression](/best_model.md)**_
+_**[Using Machine Learning Regression](report/best_model.md)**_
 
 
 The goal of this report was to predict housing prices on a "holdout" sample using a machine learning approach. To answer this question, I preprocessed the dataset using pipelines, including assignment of missing values, standardization of numerical variables, and one-hot encoding of categorical varaibles. Additioanlly, I used a Gradient Boosting Regressor model on the preprocessed data using Grid Search to optimize hyperparameters. I chose the Gradient Boosting Regressor model for this project after considering other regression models, such as Linear Regression, Random Forest Regressor, and Support Vector Regressor. After some research, I found that this model supposedly has superior performance in terms of predictive accuracy and speed compared to other similar models. Also, this model is well-suited for predicting non-linear relationships and interactions among numerous features which is required when trying to accurately predict housing price. I used this model to successfully capture the complex patterns in the data and produce accurate predictions on the holdout dataset. Furthermore, I evaluated the model using cross-validation and tried to maximize my R-squared scores. I then used this best model to predict my holdout dataset housing prices and saved the results as a CSV file that can be viewed below. Please also click the title above to view how I used machine learning to make my prediciton.
 
-![Click Here to See My Prediction](/MY_PREDICTIONS.csv)
+![Click Here to See My Prediction](report/MY_PREDICTIONS.csv)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
