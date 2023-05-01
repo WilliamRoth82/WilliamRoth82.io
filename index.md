@@ -2,7 +2,7 @@
 
 Hi, my name is Will, and I'm a Senior at Lehigh University. I expect to graduate this May with a degree in Finance, and I also have minors in Real Estate and Business Information Systems. After graduation, I will be working in Real Estate Development at Matrix Development Group in New Jersey. While at Lehigh, I spent several semesters learning how to code in Java, R, SQL, and Python. Below, I would like to showcase some of my work!
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/tmp_217_6-13-2019_34028_.png?raw=true"/>
 
 ---
 
