@@ -22,6 +22,8 @@ The goal of this report was to predict housing prices on a "holdout" sample usin
 
 ![Click Here to See My Prediction](report/MY_PREDICTIONS.csv)
 
+<a href="https://williamroth82.github.io/report/MY_PREDICTIONS.csv">LinkedIn</a> 
+
 ---
 
 ## Career Objectives
