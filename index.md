@@ -27,24 +27,11 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Team Project To Be Posted Here](https://donbowen.github.io/teamproject/)**_
-
-Project in development. Please stand by...
-
----
-
-_**Internship at [Matrix Development Group](http://www.matrixcompanies.com/)**_
-
-<"/images/tmp_217_6-13-2019_34028_.png"/>
-* Image failed to load*
-
----
-
 ## Career Objectives
 
-My main goal in life is to do the best I can in whatever I set my mind to and to make sure to have fun along the ride.
+My main goal in life and my career is to do the best I can in whatever I set my mind to and to make sure to have fun along the way.
 
-I am still unsure about what I want to do for my career, but currently I want to work in real estate developmet and learn how to invest in, add value to, and then sell properties. My ultimate goal would be  to start my own firm and be able to work on my own investment projects later in life.
+I am still unsure about what I want to do for my career, but currently I want to work in real estate developmet and learn how to invest in, add value to, and then sell properties. My ultimate goal would be to start my own firm and be able to work on my own investment projects later in life.
 
 ---
 
