@@ -30,13 +30,13 @@ The goal of this report was to predict housing prices on a "holdout" sample usin
 
 My main goal in life and my career is to do the best I can in whatever I set my mind to and to make sure to have fun along the way.
 
-I am still unsure about what I want to do for my career, but currently I want to work in real estate developmet and learn how to invest in, add value to, and then sell properties. My ultimate goal would be to start my own firm and be able to work on my own investment projects later in life.
+I am still unsure about what I want to do for my career, but currently I want to work in real estate development and learn how to invest in, add value to, and then sell properties. My ultimate goal would be to start my own firm and be able to work on my own investment projects later in life.
 
 ---
 
 ## Hobbies
 
-My main hobbies include horseback riding, lifting weights, playing video games, listening to music, and spendig time with friends and famimly!
+My main hobbies include horseback riding, lifting weights, playing video games, listening to music, and spending time with friends and famimly!
 
 ---
 
